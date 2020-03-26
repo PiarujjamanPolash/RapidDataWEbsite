@@ -1,0 +1,97 @@
+div.jumbotron.carousel-hero {
+  color: #fff;
+  text-align: center;
+  background-size: cover;
+  background-position: center;
+  padding-top: 144px;
+  padding-bottom: 100px;
+  margin-bottom: 0;
+}
+
+div.jumbotron.hero-nature {
+  background-image: url('../../assets/img/3rd%20try.jpg');
+  /*margin-top: 3px;*/
+  background-size: cover;
+  /*height: 630px;*/
+}
+
+div.jumbotron.hero-photography {
+  background-image: url('../../assets/img/4th%20try.png');
+  background-size: cover;
+  /*height: 630px;*/
+}
+
+div.jumbotron.hero-technology {
+  background-image: url('../../assets/img/hero-background-technology.jpg');
+}
+
+h1.hero-title, h2.hero-title, h3.hero-title {
+  text-shadow: 0 3px 3px rgba(0,0,0,0.4);
+  color: #fff;
+}
+
+p.hero-subtitle {
+  max-width: 600px;
+  margin: 25px auto;
+  padding: 10px 15px;
+  color: #fff;
+}
+
+.carousel-inner {
+  margin-top: 100px;
+}
+
+img, svg {
+  max-height: 34px;
+}
+
+.jumbotron.hero-technology.carousel-hero {
+}
+
+#carousel {
+  margin-top: -148px;
+}
+
+.fas.fa-cart-plus {
+}
+
+.display {
+}
+
+@media (min-width: 992px) {
+  #display {
+    max-height: 290px;
+    background-size: cover;
+    padding: 0px;
+  }
+}
+
+iframe {
+  max-height: 509px;
+  padding-left: -7px;
+}
+
+div {
+  /*float: left;*/
+  /*padding: -16px;*/
+}
+
+#imageof {
+  /*float: left;*/
+}
+
+#video {
+}
+
+#video {
+  /*float: right;*/
+}
+
+#imageof {
+  background-size: cover;
+}
+
+#vidpic {
+  margin-top: -110px;
+}
+
